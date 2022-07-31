@@ -1,6 +1,13 @@
 # CHESS GAME - Socket.io
 
+## DEMO
+
 ![](socketchess.gif)
+
+## DEPLOYMENT
+
+- The one that is deployed in the herokuapp is the old version.
+- if you want to have the full potential of the web app, use this code for better.
 
 ## REQUEST RESPONSE CYCLE
 
