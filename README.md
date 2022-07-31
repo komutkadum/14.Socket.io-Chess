@@ -13,6 +13,11 @@
   <tr>
     <td>Connect</td>
     <td> { <br> &nbsp;&nbsp;socketId : id <br> &nbsp;&nbsp;username : name <br>} </td>
+    <td> { <br> &nbsp;&nbsp;connected : { <br> &nbsp;&nbsp;&nbsp;&nbsp;username : "true" <br>  &nbsp;&nbsp;} <br> }</td>
+  </tr>
+  <tr>
+    <td>GetListOfUsers</td>
+    <td> { } </td>
     <td> { <br> &nbsp;&nbsp;userList : { <br> &nbsp;&nbsp;&nbsp;&nbsp;username : "string|username" <br>  &nbsp;&nbsp;} <br> }</td>
   </tr>
   <tr>
@@ -68,8 +73,9 @@
 - When the player clicked the button, the other player will receive the alert in his machine to join. He presses join and both player can play.
 - Each player gets an equal turn where white begins the game as seen in chess.
 
+### © [kadumkomut](https://kadmon47.github.io/kadumkomut/)
 
-
+# Happy Coding
 
 
 
